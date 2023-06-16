@@ -22,4 +22,17 @@ entries:
     urls:
     - my-chart/my-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-16T16:51:48.1542895+05:30"
+  my-nginx-app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-16T17:27:35.8042233+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 60977c6372f561828c4bec61fd54ede970517ce18cbe342d7d24d07f90c9c211
+    name: my-nginx-app1
+    type: application
+    urls:
+    - my-nginx-app1-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-16T17:27:35.8029644+05:30"
+
+
